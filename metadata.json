@@ -1,0 +1,6 @@
+{
+  "name": "한국 미래 뉴스",
+  "description": "정치, 경제, 사회, IT/과학, 세계, 문화, 연예, 스포츠 등 실시간 주요 뉴스와 심층 분석, AI 요약 기사를 제공하는 한국 미래 종합 뉴스 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
